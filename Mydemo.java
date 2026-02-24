@@ -4,6 +4,8 @@ class Mydemo{
         System.out.println("hello world");
         System.out.println("hello");
         System.out.println("Good Morning");
+        System.out.println("Good Morning");
+        System.out.println("Good Morning");
         
     }   
 }
